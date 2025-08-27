@@ -35,6 +35,5 @@ This MIPS assembly program prompts the user to enter **five integers**, converts
 - **assignment4.asm** – Main MIPS assembly source code.  
 
 ---
-
-## Example Output  
+ 
 
